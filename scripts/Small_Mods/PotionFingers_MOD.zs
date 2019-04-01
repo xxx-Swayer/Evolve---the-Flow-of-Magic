@@ -1,5 +1,5 @@
 #Name: PotionFingers_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'PotionFingers_MOD.zs'...");
 

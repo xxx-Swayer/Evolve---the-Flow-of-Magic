@@ -1,5 +1,5 @@
 #Name: IronChests_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'IronChests_MOD.zs'...");						#No config changes
 

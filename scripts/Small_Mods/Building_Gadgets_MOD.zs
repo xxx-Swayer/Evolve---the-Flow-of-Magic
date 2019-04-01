@@ -1,5 +1,5 @@
 #Name: Building_Gadgets_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'Building_Gadgets_MOD.zs'...");
 

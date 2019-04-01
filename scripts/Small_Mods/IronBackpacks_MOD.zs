@@ -1,5 +1,5 @@
 #Name: IronBackpacks_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'IronBackpacks_MOD.zs'...");			#Unchanged
 

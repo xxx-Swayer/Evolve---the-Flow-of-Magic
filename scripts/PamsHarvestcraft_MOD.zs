@@ -1,5 +1,5 @@
 #Name: PamsHarvestcraft_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'PamsHarvestcraft_MOD.zs'...");
 

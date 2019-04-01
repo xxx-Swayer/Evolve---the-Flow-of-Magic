@@ -1,5 +1,5 @@
 #Name: AE2_Stuff_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'AE2_Stuff_MOD.zs'...");
 

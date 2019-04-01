@@ -1,5 +1,5 @@
 #Name: IceAndFire_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'IceAndFire_MOD.zs'...");
 

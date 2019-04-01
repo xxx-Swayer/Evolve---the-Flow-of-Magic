@@ -1,5 +1,5 @@
 #Name: TEMPLATE.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'TEMPLATE.zs'...");
 

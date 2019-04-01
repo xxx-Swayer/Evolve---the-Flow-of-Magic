@@ -1,5 +1,5 @@
 #Name: BiblioCraft_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'BiblioCraft_MOD.zs'...");					#Has configs
 

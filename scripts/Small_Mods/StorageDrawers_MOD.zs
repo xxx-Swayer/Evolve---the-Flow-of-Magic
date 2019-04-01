@@ -1,5 +1,5 @@
 #Name: StorageDrawers_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 
 print("Loading 'StorageDrawers_MOD.zs'...");		#Has configs

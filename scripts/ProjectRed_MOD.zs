@@ -1,5 +1,5 @@
 #Name: ProjectRed_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'ProjectRed_MOD.zs'...");			#Has configs
 

@@ -1,5 +1,5 @@
 #Name: AppliedEnegistics_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'AppliedEnegistics_MOD.zs'...");				#Has configs
 

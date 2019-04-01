@@ -1,5 +1,5 @@
 #Name: Better_Builders_Wand_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'Better_Builders_Wand_MOD.zs'...");
 

@@ -1,5 +1,5 @@
 #Name: Exchangers_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'Exchangers_MOD.zs'...");
 

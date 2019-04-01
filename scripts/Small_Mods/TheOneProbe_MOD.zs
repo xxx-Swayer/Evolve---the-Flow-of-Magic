@@ -1,5 +1,5 @@
 #Name: TheOneProbe_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'TheOneProbe_MOD.zs'...");
 

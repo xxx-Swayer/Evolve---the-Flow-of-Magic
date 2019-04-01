@@ -1,5 +1,5 @@
 #Name: 0_Removed_CORE.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading '0_Removed_CORE.zs'...");
 

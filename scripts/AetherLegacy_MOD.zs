@@ -1,5 +1,5 @@
 #Name: AetherLegacy_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'AetherLegacy_MOD.zs'...");
 

@@ -1,5 +1,5 @@
 #Name: 0_JEI_CORE.zs
-#Author: Mr.Automaton
+#Author: Swayer
 
 print("Loading '0_JEI_CORE.zs'...");
 

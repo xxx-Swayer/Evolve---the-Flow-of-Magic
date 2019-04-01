@@ -1,5 +1,5 @@
 #Name: EnderStorage_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'EnderStorage_MOD.zs'...");
 

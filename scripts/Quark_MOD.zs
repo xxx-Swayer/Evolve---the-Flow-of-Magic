@@ -1,5 +1,5 @@
 #Name: Quark_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'Quark_MOD.zs'...");				#Has configs
 

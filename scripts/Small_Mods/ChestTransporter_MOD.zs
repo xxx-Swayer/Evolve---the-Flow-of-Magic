@@ -1,5 +1,5 @@
 #Name: ChestTransporter_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'ChestTransporter_MOD.zs'...");
 

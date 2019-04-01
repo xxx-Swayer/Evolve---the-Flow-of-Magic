@@ -1,5 +1,5 @@
 #Name: ExtraUtilities_MOD.zs
-#Author: Mr_Automaton
+#Author: Swayer
 
 print("Loading 'ExtraUtilities_MOD.zs'...");			#Has configs
 
