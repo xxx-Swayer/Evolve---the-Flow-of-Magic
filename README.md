@@ -3,3 +3,6 @@ A magic themed modpack with all the quality of life add-ons you can dream of as 
 
 Links:
 https://docs.google.com/spreadsheets/d/1WMLTKG3JatqS0h-vj8nsgxuE3ltaE1c21vbw45GEGZo/edit#gid=0
+
+
+All picture credit goes to: Adam Barrett, and the website: "bluetext.com"
